@@ -4,4 +4,3 @@ test1_commitC
 test1_commitD
 test1_commitE
 test1_commitF
-test1_commitREVERT
