@@ -2,3 +2,4 @@ test3_commitA
 test3_commitB
 test3_commitC
 test3_commitD
+test3_commitE
